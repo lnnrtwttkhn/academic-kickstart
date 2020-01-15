@@ -24,7 +24,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Hippocampal replay
-- Decision-making
+- Decision making
 - Open Science
 
 education:
