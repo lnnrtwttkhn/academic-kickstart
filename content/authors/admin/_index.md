@@ -17,7 +17,7 @@ organizations:
 - name: Max Planck Institute for Human Development, Berlin, Germany
   url: "https://www.mpib-berlin.mpg.de/en"
 - name: Max Planck UCL Centre for Computational Psychiatry and Ageing Research, Berlin, Germany
-  url: "https://www.mpib-berlin.mpg.de/en"
+  url: "https://www.mps-ucl-centre.mpg.de/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
