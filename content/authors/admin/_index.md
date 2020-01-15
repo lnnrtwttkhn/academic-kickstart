@@ -31,10 +31,10 @@ education:
   courses:
   - course: MSc in Cognitive Neuroscience
     institution: Technical University Dresden, Germany
-    year: 2015
+    year: 2017
   - course: BSc in Psychology
     institution: Technical University Dresden, Germany
-    year: 2012
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
