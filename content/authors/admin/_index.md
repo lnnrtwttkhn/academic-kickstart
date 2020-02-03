@@ -20,7 +20,7 @@ organizations:
   url: "https://www.mps-ucl-centre.mpg.de/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 interests:
 - Hippocampal replay
@@ -58,9 +58,9 @@ social:
   link: https://orcid.org/0000-0003-2966-6888
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://lnnrtwttkhn.gitlab.io/cv/cv_wittkuhn.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
